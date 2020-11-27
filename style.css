@@ -1,0 +1,60 @@
+*{
+ margin:0px;
+ padding:0px;
+}
+
+body{
+    background-color:gray ;
+    color:white;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+#main{
+    text-align: center;
+
+}
+#second{
+    background-color: rgba(163, 46, 16, 0.562);
+    width:80%;
+    height:120px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    left:10%;
+
+}
+#re{
+    background-color:blueviolet;
+    color:wheat;
+    top:200px;
+    width:80%;
+    text-align: center;
+    height:120px;
+    position: absolute;
+    left:10%;
+    
+
+}
+#fourty{
+
+    background-color:rgb(42, 122, 105);
+    color:black;
+    top:330px;
+    width:80%;
+    text-align: center;
+    height:305px;
+    position: absolute;
+    left:10%;
+
+}
